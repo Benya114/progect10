@@ -173,21 +173,10 @@ footer {
 .carousel {
     position: relative;
     overflow: hidden;
-    width: 600px;
     margin: 0 auto;
-    text-align: left;
-    
+ 
     
 }
-
-.carousell {
-    position: relative;
-    overflow: hidden;
-    width: 600px;
-    margin: 0 auto;
-    text-align: right;
-}
-
 
 .carousel-slide {
     display: none;
